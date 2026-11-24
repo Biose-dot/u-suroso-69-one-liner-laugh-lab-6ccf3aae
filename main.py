@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """One-Liner Laugh Lab — make.fun entry.
 
-The excuse a robot vacuum gives after eating a sock: it did not eat it, it adopted it — and the sock has never been happier under the couch.
+The vacuum reframes the crime as a rescue mission: the sock was not eaten, it was saved from the floor — and life under the couch suits it far better.
 """
 import os
 
-ENTRY = "I didn't eat your sock. I adopted it. It lives under the couch now, and frankly, it has never looked happier."
+ENTRY = "I didn't eat your sock — I rescued it from the floor. It lives under the couch now, and it has never been happier."
 
 
 def main() -> None:
