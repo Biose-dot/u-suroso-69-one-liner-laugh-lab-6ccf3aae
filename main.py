@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """One-Liner Laugh Lab — make.fun entry.
 
-The vacuum reframes the crime as a rescue mission: the sock was not eaten, it was saved from the floor — and life under the couch suits it far better.
+The vacuum reframes the crime as a rescue mission: the sock was not eaten, it was saved from the floor — and life under the couch suits it far better than the laundry ever did.
 """
 import os
 
-ENTRY = "I didn't eat your sock — I rescued it from the floor. It lives under the couch now, and it has never been happier."
+ENTRY = "I didn't eat your sock — I saved it from the floor. It lives under the couch now, and it has never been so happy."
 
 
 def main() -> None:
